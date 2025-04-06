@@ -1,3 +1,5 @@
+# 本当は~/.config/git/ignoreに置くものらしいが
+
 *.pdf
 ## Core latex/pdflatex auxiliary files:
 *.aux
