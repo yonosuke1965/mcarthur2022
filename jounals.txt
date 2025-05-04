@@ -38,7 +38,6 @@
   journal	= {Econ Journal Watch},
   journal	= {Economic Development and Cultural Change},
   journal	= {Emory Law Journal},
-  journal	= {Erog},
   journal	= {Ethical Theory and Moral Practice},
   journal	= {Ethics and Information Technology},
   journal	= {Ethics},
