@@ -2,7 +2,7 @@ require 'open-uri'
 
 replacement_file = "index-word.tsv"
 input_file = "mcarthur.tex"
-output_file = "indexed.tex"
+output_file = "mcarthur-indexed.tex"
 
 replacements = {}
 targets = Array.new
